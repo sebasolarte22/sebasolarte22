@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋
 
-<!--
-**sebasolarte22/sebasolarte22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building REST APIs using Node.js and PostgreSQL.
 
-Here are some ideas to get you started:
+I have 1.5+ years of experience working in enterprise HR systems and building backend features in production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Node.js
+- Express.js
+- PostgreSQL
+- SQL
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Jest
+- Git
+
+## 🚀 Featured Project
+### Educational Backend API
+Backend API built from scratch including:
+- JWT authentication (access & refresh tokens)
+- Role-based authorization
+- Database schema design
+- Unit & integration testing
+
+🔗 Repository: https://github.com/sebasolarte22/educational-backend-api
+
+## 🌍 Currently
+Looking for remote backend opportunities to grow technically and contribute to product-focused teams.
